@@ -1,1 +1,1 @@
-prints “Hello, World”
+0x02 Shell Redirection Tasks
